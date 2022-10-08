@@ -1,7 +1,7 @@
 # React Expence Tracker
 This is a react expense tracker made using reactjs.
 
-IT allows you Add transactions and Delete them while viewing changes in realtime.
+It allows you Add transactions and Delete them while viewing changes in realtime.
 
 
 
