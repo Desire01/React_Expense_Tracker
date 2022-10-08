@@ -1,3 +1,13 @@
+# React Expence Tracker
+This is a react expense tracker made using reactjs.
+
+IT allows you Add transactions and Delete them while viewing changes in realtime.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
